@@ -1,0 +1,35 @@
+[
+  {
+    "id": "f3at400c",
+    "chef_id": 0,
+    "chef_name": "Thomas Keller",
+    "recipe": "Lemon-Brined Fried Chicken",
+    "likes": "21544",
+    "view": "54145",
+    "recipe_img": "https://www.foodandwine.com/thmb/EcW4Yd7g-kkcKp3tlzYZnAzPdBk=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Buttermilk-Fried-Chicken-FT-RECIPE0822-2000-481ce0c215a340cbb650293525156fe3.jpg",
+    "short_des": "Thomas Keller's Lemon-Brined Fried Chicken is a classic dish that has become a signature item on the menu of his restaurant",
+    "discription": "Thomas Keller's Lemon-Brined Fried Chicken is a classic dish that has become a signature item on the menu of his restaurant, Ad Hoc. The dish features juicy, flavorful chicken that has been brined in a mixture of lemon, herbs, and spices before being coated in a crispy, golden crust.To prepare the dish, chicken pieces are first soaked in a brine of lemon juice, water, garlic, thyme, and other seasonings for several hours. This not only infuses the chicken with flavor but also helps to keep it moist and tender during cooking.Next, the chicken is coated in a mixture of flour, cornmeal, and spices before being fried until golden brown and crispy. The result is a mouthwatering combination of juicy, flavorful meat and crispy, crunchy coating.The dish is often served with sides such as mashed potatoes, gravy, and seasonal vegetables, making for a satisfying and comforting meal. It has become a favorite among diners at Ad Hoc, and many people have tried to recreate the recipe at home to varying degrees of success. Overall, Thomas Keller's Lemon-Brined Fried Chicken is a delicious and iconic dish that showcases his skill and creativity as a chef."
+  },
+  {
+    "id": "f3c040ab",
+    "chef_id": 0,
+    "chef_name": "Thomas Keller",
+    "recipe": "Summer Salad with Mustard Vinaigrette",
+    "likes": "21544",
+    "view": "54145",
+    "recipe_img": "https://www.foodandwine.com/thmb/tVGen501V_6KF1vjeLcBKjQklek=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/summer-salad-with-mustard-vinaigrette-xl-recipe0716-f956fbc7f0d5416482c562606b2dca6e.jpg",
+    "discription": "A Summer Salad with Mustard Vinaigrette is a refreshing and flavorful dish that's perfect for warm weather. The salad typically features a variety of fresh, seasonal vegetables and fruits, such as tomatoes, cucumbers, strawberries, and avocados, tossed together in a bowl with a zesty mustard vinaigrette. The vinaigrette is made by whisking together Dijon mustard, red wine vinegar, garlic, honey, and olive oil until smooth and creamy. The dressing adds a tangy and slightly sweet flavor to the salad, while also providing a healthy dose of antioxidants and healthy fats. The salad can be customized to suit individual tastes and preferences, with a wide range of ingredients that can be added or substituted as desired. For example, some variations of the salad may include grilled chicken or shrimp, quinoa or other grains, or different types of nuts and seeds. Overall, a Summer Salad with Mustard Vinaigrette is a delicious and healthy way to enjoy the flavors of the season. It's a great option for a light lunch or dinner, or as a side dish at a summer barbecue or gathering.",
+    "short_des": "Thomas Keller's Lemon-Brined Fried Chicken is a classic dish that has become a signature item on the menu of his restaurant"
+  },
+  {
+    "id": "f3c0400c",
+    "chef_id": 5,
+    "chef_name": "Thomas Keller",
+    "recipe": "BLT Fried Egg and Cheese Sandwich",
+    "likes": "21544",
+    "view": "54145",
+    "recipe_img": "https://www.foodandwine.com/thmb/llWpPwQCahkggBPocEQIiYwMxUA=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/200707-r-xl-blt-fried-egg-sandwich-c4f92f37f6b74742b28aee18b8450a8b.jpg",
+    "discription": "The BLT Fried Egg and Cheese Sandwich is a delicious and hearty sandwich that combines some of the most popular breakfast ingredients into one amazing dish. The sandwich typically includes bacon, lettuce, and tomato, along with a fried egg and melted cheese, all sandwiched between two slices of toasted bread. To prepare the sandwich, bacon is first cooked until crispy, and then set aside while the bread is toasted in the same pan. The fried egg is then cooked in the same pan until the yolk is still slightly runny but the white is fully cooked. Once the bread is toasted, it's topped with the cooked bacon, a slice of tomato, and some fresh lettuce. The fried egg is then placed on top of the vegetables, and a slice of cheese is added to the top of the egg. The sandwich is then assembled by adding the second slice of toasted bread on top. The result is a savory and satisfying sandwich that's perfect for breakfast, brunch, or even lunch. The combination of the crispy bacon, juicy tomato, and creamy egg and cheese makes for a delicious and indulgent treat that's sure to please even the most discerning taste buds.",
+    "short_des": "Thomas Keller's Lemon-Brined Fried Chicken is a classic dish that has become a signature item on the menu of his restaurant"
+  }
+]
