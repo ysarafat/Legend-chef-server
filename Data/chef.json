@@ -1,0 +1,50 @@
+[
+  {
+    "id": 0,
+    "name": "Thomas Keller",
+    "image": "https://ibb.co/1s8XPKG",
+    "experience": "40",
+    "no_recipes": "6",
+    "likes": "450"
+  },
+  {
+    "id": 1,
+    "name": "Grant Achatz",
+    "image": "https://ibb.co/1s8XPKG",
+    "experience": "20",
+    "no_recipes": "6",
+    "likes": "450"
+  },
+  {
+    "id": 2,
+    "name": "Gavin Kaysen",
+    "image": "https://ibb.co/1s8XPKG",
+    "experience": "40",
+    "no_recipes": "6",
+    "likes": "450"
+  },
+  {
+    "id": 3,
+    "name": "Dan Barber",
+    "image": "https://ibb.co/1s8XPKG",
+    "experience": "40",
+    "no_recipes": "6",
+    "likes": "450"
+  },
+  {
+    "id": 4,
+    "name": "Wolfgang Puck",
+    "image": "https://ibb.co/1s8XPKG",
+    "experience": "40",
+    "no_recipes": "6",
+    "likes": "450"
+  },
+  {
+    "id": 5,
+    "name": "Dominique Crenn",
+    "image": "https://ibb.co/1s8XPKG",
+    "experience": "40",
+    "no_recipes": "6",
+    "likes": "450"
+  }
+]
