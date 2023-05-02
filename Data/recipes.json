@@ -7,8 +7,8 @@
     "likes": "21544",
     "view": "54145",
     "recipe_img": "https://www.foodandwine.com/thmb/EcW4Yd7g-kkcKp3tlzYZnAzPdBk=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Buttermilk-Fried-Chicken-FT-RECIPE0822-2000-481ce0c215a340cbb650293525156fe3.jpg",
-    "short_des": "Thomas Keller's Lemon-Brined Fried Chicken is a classic dish that has become a signature item on the menu of his restaurant",
-    "discription": "Thomas Keller's Lemon-Brined Fried Chicken is a classic dish that has become a signature item on the menu of his restaurant, Ad Hoc. The dish features juicy, flavorful chicken that has been brined in a mixture of lemon, herbs, and spices before being coated in a crispy, golden crust.To prepare the dish, chicken pieces are first soaked in a brine of lemon juice, water, garlic, thyme, and other seasonings for several hours. This not only infuses the chicken with flavor but also helps to keep it moist and tender during cooking.Next, the chicken is coated in a mixture of flour, cornmeal, and spices before being fried until golden brown and crispy. The result is a mouthwatering combination of juicy, flavorful meat and crispy, crunchy coating.The dish is often served with sides such as mashed potatoes, gravy, and seasonal vegetables, making for a satisfying and comforting meal. It has become a favorite among diners at Ad Hoc, and many people have tried to recreate the recipe at home to varying degrees of success. Overall, Thomas Keller's Lemon-Brined Fried Chicken is a delicious and iconic dish that showcases his skill and creativity as a chef."
+    "short_des": "The dish features juicy, flavorful chicken that has been brined in a mixture of lemon",
+    "description": "Thomas Keller's Lemon-Brined Fried Chicken is a classic dish that has become a signature item on the menu of his restaurant, Ad Hoc. The dish features juicy, flavorful chicken that has been brined in a mixture of lemon, herbs, and spices before being coated in a crispy, golden crust.To prepare the dish, chicken pieces are first soaked in a brine of lemon juice, water, garlic, thyme, and other seasonings for several hours. This not only infuses the chicken with flavor but also helps to keep it moist and tender during cooking.Next, the chicken is coated in a mixture of flour, cornmeal, and spices before being fried until golden brown and crispy. The result is a mouthwatering combination of juicy, flavorful meat and crispy, crunchy coating.The dish is often served with sides such as mashed potatoes, gravy, and seasonal vegetables, making for a satisfying and comforting meal. It has become a favorite among diners at Ad Hoc, and many people have tried to recreate the recipe at home to varying degrees of success. Overall, Thomas Keller's Lemon-Brined Fried Chicken is a delicious and iconic dish that showcases his skill and creativity as a chef."
   },
   {
     "id": "f3c040ab",
@@ -17,19 +17,228 @@
     "recipe": "Summer Salad with Mustard Vinaigrette",
     "likes": "21544",
     "view": "54145",
-    "recipe_img": "https://www.foodandwine.com/thmb/tVGen501V_6KF1vjeLcBKjQklek=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/summer-salad-with-mustard-vinaigrette-xl-recipe0716-f956fbc7f0d5416482c562606b2dca6e.jpg",
-    "discription": "A Summer Salad with Mustard Vinaigrette is a refreshing and flavorful dish that's perfect for warm weather. The salad typically features a variety of fresh, seasonal vegetables and fruits, such as tomatoes, cucumbers, strawberries, and avocados, tossed together in a bowl with a zesty mustard vinaigrette. The vinaigrette is made by whisking together Dijon mustard, red wine vinegar, garlic, honey, and olive oil until smooth and creamy. The dressing adds a tangy and slightly sweet flavor to the salad, while also providing a healthy dose of antioxidants and healthy fats. The salad can be customized to suit individual tastes and preferences, with a wide range of ingredients that can be added or substituted as desired. For example, some variations of the salad may include grilled chicken or shrimp, quinoa or other grains, or different types of nuts and seeds. Overall, a Summer Salad with Mustard Vinaigrette is a delicious and healthy way to enjoy the flavors of the season. It's a great option for a light lunch or dinner, or as a side dish at a summer barbecue or gathering.",
-    "short_des": "Thomas Keller's Lemon-Brined Fried Chicken is a classic dish that has become a signature item on the menu of his restaurant"
+    "recipe_img": "https://images.pexels.com/photos/4552133/pexels-photo-4552133.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "description": "A Summer Salad with Mustard Vinaigrette is a refreshing and flavorful dish that's perfect for warm weather. The salad typically features a variety of fresh, seasonal vegetables and fruits, such as tomatoes, cucumbers, strawberries, and avocados, tossed together in a bowl with a zesty mustard vinaigrette. The vinaigrette is made by whisking together Dijon mustard, red wine vinegar, garlic, honey, and olive oil until smooth and creamy. The dressing adds a tangy and slightly sweet flavor to the salad, while also providing a healthy dose of antioxidants and healthy fats. The salad can be customized to suit individual tastes and preferences, with a wide range of ingredients that can be added or substituted as desired. For example, some variations of the salad may include grilled chicken or shrimp, quinoa or other grains, or different types of nuts and seeds. Overall, a Summer Salad with Mustard Vinaigrette is a delicious and healthy way to enjoy the flavors of the season. It's a great option for a light lunch or dinner, or as a side dish at a summer barbecue or gathering.",
+    "short_des": "Thomas Keller's Lemon-Brined Fried Chicken is a classic dish that has become a signature"
   },
   {
     "id": "f3c0400c",
-    "chef_id": 5,
+    "chef_id": 0,
     "chef_name": "Thomas Keller",
-    "recipe": "BLT Fried Egg and Cheese Sandwich",
+    "recipe": "Fried Egg and Cheese Sandwich",
     "likes": "21544",
     "view": "54145",
-    "recipe_img": "https://www.foodandwine.com/thmb/llWpPwQCahkggBPocEQIiYwMxUA=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/200707-r-xl-blt-fried-egg-sandwich-c4f92f37f6b74742b28aee18b8450a8b.jpg",
-    "discription": "The BLT Fried Egg and Cheese Sandwich is a delicious and hearty sandwich that combines some of the most popular breakfast ingredients into one amazing dish. The sandwich typically includes bacon, lettuce, and tomato, along with a fried egg and melted cheese, all sandwiched between two slices of toasted bread. To prepare the sandwich, bacon is first cooked until crispy, and then set aside while the bread is toasted in the same pan. The fried egg is then cooked in the same pan until the yolk is still slightly runny but the white is fully cooked. Once the bread is toasted, it's topped with the cooked bacon, a slice of tomato, and some fresh lettuce. The fried egg is then placed on top of the vegetables, and a slice of cheese is added to the top of the egg. The sandwich is then assembled by adding the second slice of toasted bread on top. The result is a savory and satisfying sandwich that's perfect for breakfast, brunch, or even lunch. The combination of the crispy bacon, juicy tomato, and creamy egg and cheese makes for a delicious and indulgent treat that's sure to please even the most discerning taste buds.",
-    "short_des": "Thomas Keller's Lemon-Brined Fried Chicken is a classic dish that has become a signature item on the menu of his restaurant"
+    "recipe_img": "https://images.pexels.com/photos/236813/pexels-photo-236813.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "description": "The BLT Fried Egg and Cheese Sandwich is a delicious and hearty sandwich that combines some of the most popular breakfast ingredients into one amazing dish. The sandwich typically includes bacon, lettuce, and tomato, along with a fried egg and melted cheese, all sandwiched between two slices of toasted bread. To prepare the sandwich, bacon is first cooked until crispy, and then set aside while the bread is toasted in the same pan. The fried egg is then cooked in the same pan until the yolk is still slightly runny but the white is fully cooked. Once the bread is toasted, it's topped with the cooked bacon, a slice of tomato, and some fresh lettuce. The fried egg is then placed on top of the vegetables, and a slice of cheese is added to the top of the egg. The sandwich is then assembled by adding the second slice of toasted bread on top. The result is a savory and satisfying sandwich that's perfect for breakfast, brunch, or even lunch. The combination of the crispy bacon, juicy tomato, and creamy egg and cheese makes for a delicious and indulgent treat that's sure to please even the most discerning taste buds.",
+    "short_des": "The BLT Fried Egg and Cheese Sandwich is a delicious and hearty sandwich that combines"
+  },
+  {
+    "id": "f3c0410c",
+    "chef_id": 0,
+    "chef_name": "Thomas Keller",
+    "recipe": "Coconut Cake",
+    "likes": "21544",
+    "view": "54145",
+    "recipe_img": "https://images.pexels.com/photos/2138849/pexels-photo-2138849.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "description": "The BLT Fried Egg and Cheese Sandwich is a delicious and hearty sandwich that combines some of the most popular breakfast ingredients into one amazing dish. The sandwich typically includes bacon, lettuce, and tomato, along with a fried egg and melted cheese, all sandwiched between two slices of toasted bread. To prepare the sandwich, bacon is first cooked until crispy, and then set aside while the bread is toasted in the same pan. The fried egg is then cooked in the same pan until the yolk is still slightly runny but the white is fully cooked. Once the bread is toasted, it's topped with the cooked bacon, a slice of tomato, and some fresh lettuce. The fried egg is then placed on top of the vegetables, and a slice of cheese is added to the top of the egg. The sandwich is then assembled by adding the second slice of toasted bread on top. The result is a savory and satisfying sandwich that's perfect for breakfast, brunch, or even lunch. The combination of the crispy bacon, juicy tomato, and creamy egg and cheese makes for a delicious and indulgent treat that's sure to please even the most discerning taste buds.",
+    "short_des": "The sandwich is then assembled by adding the second slice of toasted bread on top"
+  },
+  {
+    "id": "f3c0411c",
+    "chef_id": 1,
+    "chef_name": "Grant Achatz",
+    "recipe": "Flaky Pear Pie",
+    "likes": "21544",
+    "view": "54145",
+    "recipe_img": "https://images.unsplash.com/photo-1601000937490-4752ec5d905f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "description": "In a large bowl, mix the flour with the salt. Cut in the shortening until the mixture resembles coarse meal. Sprinkle on the ice water and mix lightly with a fork. Gently knead the dough until it just comes together. Cut the dough in half and flatten each piece into a disk. Wrap in plastic and refrigerate until firm, about 30 minutes. On a lightly floured work surface, roll out 1 disk of dough to an 11 1/2-inch round. Fit the dough into a 10-inch aluminum pie pan without stretching. Roll out the second disk of dough to an 11-inch round. Transfer the pear filling to the pie pan and arrange the slices so there are no gaps. Dot the pears with the butter. Cover the pie with the top crust and press all around the edge to seal. Trim any overhang and crimp the edge decoratively. Sweet Chenin Blancs from the Anjou region of the western Loire valley are terrific value dessert wines and pair particularly well with baked orchard fruits like the pears in this pie.Sweet Chenin Blancs from the Anjou region of the western Loire valley are terrific value dessert wines and pair particularly well with baked orchard fruits like the pears in this pie.",
+    "short_des": "In a large bowl, mix the flour with the salt. Cut in the shortening until the mixture resembles coarse meal."
+  },
+  {
+    "id": "f3c9411c",
+    "chef_id": 1,
+    "chef_name": "Grant Achatz",
+    "recipe": "German Soft Pretzel Sticks",
+    "likes": "4510",
+    "view": "5145",
+    "recipe_img": "https://images.unsplash.com/photo-1509957879660-dd8846a0b43d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1172&q=80",
+    "description": "In a large bowl, mix the flour with the salt. Cut in the shortening until the mixture resembles coarse meal. Sprinkle on the ice water and mix lightly with a fork. Gently knead the dough until it just comes together. Cut the dough in half and flatten each piece into a disk. Wrap in plastic and refrigerate until firm, about 30 minutes. On a lightly floured work surface, roll out 1 disk of dough to an 11 1/2-inch round. Fit the dough into a 10-inch aluminum pie pan without stretching. Roll out the second disk of dough to an 11-inch round. Transfer the pear filling to the pie pan and arrange the slices so there are no gaps. Dot the pears with the butter. Cover the pie with the top crust and press all around the edge to seal. Trim any overhang and crimp the edge decoratively. Sweet Chenin Blancs from the Anjou region of the western Loire valley are terrific value dessert wines and pair particularly well with baked orchard fruits like the pears in this pie.Sweet Chenin Blancs from the Anjou region of the western Loire valley are terrific value dessert wines and pair particularly well with baked orchard fruits like the pears in this pie.",
+    "short_des": "Wrap in plastic and refrigerate until firm, about 30 minutes. On a lightly floured work surface, roll out 1 disk"
+  },
+  {
+    "id": "f3c9478u",
+    "chef_id": 1,
+    "chef_name": "Grant Achatz",
+    "recipe": "Grant's Mac and Cheese",
+    "likes": "47110",
+    "view": "75145",
+    "recipe_img": "https://images.pexels.com/photos/806357/pexels-photo-806357.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=",
+    "description": "In a medium-size saucepan, melt the butter over medium heat, then stir in the flour and whisk until the mixture turns a deep golden, about 2 minutes. Add the milk and continue to whisk constantly until the mixture thickens and comes to a full boil, 4 or 5 minutes. (Whisk diligently and there will be no lumps.) Stir in the salsa, remove from the heat, then stir in cheese. Continue stirring until all the cheese has melted. Taste and season generously with salt, usually 1 1/2 teaspoons. Cover to keep warm until the pasta is done. When the water has come to a boil, add the dried pasta. Stir well to keep the pasta from sticking together and boil until the pasta is al dente, about 10 minutes. Drain thoroughly and add the pasta to the sauce. Stir until all the pasta is covered in the salsa cheese sauce. You’re ready to dig in.",
+    "short_des": "Add the milk and continue to whisk constantly until the mixture thickens and comes to a full boil, 4 or 5 minutes."
+  },
+  {
+    "id": "f3c947ne",
+    "chef_id": 1,
+    "chef_name": "Grant Achatz",
+    "recipe": "Beef Chili with Beans",
+    "likes": "47110",
+    "view": "75145",
+    "recipe_img": "https://images.pexels.com/photos/8308893/pexels-photo-8308893.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "description": "Chili means Halloween to me, Grant Achatz says. When he was growing up, his mother would always serve it to him and his cousins before they went trick or treating as a way to counteract the sugar buzz to come. The smoky, spicy version here is a slightly modified version of his mother's chili, made with ancho, pasilla and chipotle powders, plus a homemade blend of seasonings and fresh herbs. In a large, heavy pot or a medium enameled cast-iron casserole, heat the oil. Add half of the ground beef and cook over high heat, breaking it up with a wooden spoon, until browned, about 5 minutes; transfer to a bowl with a slotted spoon. Brown the remaining ground beef. Return the first batch of browned beef to the pot. Add the onions and pepper to the pot and cook over moderate heat, stirring occasionally, until the onions are translucent, about 8 minutes. Add the garlic, chile powders, cumin, coriander, sugar, thyme, oregano, black pepper and cayenne and cook for 10 minutes, stirring occasionally. Stir in the beef broth, pinto beans, tomatoes, chipotles, tomato sauce, tomato paste and the vinegar. Simmer the chili over low heat for 1 1/2 hours, stirring occasionally. Add the lime juice, season with salt and serve.",
+    "short_des": "Chili means Halloween to me, Grant Achatz says. When he was growing up, his mother would always serve it to him "
+  },
+  {
+    "id": "g4c947ne",
+    "chef_id": 2,
+    "chef_name": "Gavin Kaysen",
+    "recipe": "Cavatelli with Sausage &Browned Sage Butter",
+    "likes": "47110",
+    "view": "75145",
+    "recipe_img": "https://i.ibb.co/YbfDVhQ/pexels-sadman-chowdhury-1543613.jpg",
+    "description": "Franks' note: This is one of our most popular dishes. It's renowned as a hangover curative among the people we work with and the 10-to-1 favorite for what a guy will order on a first date. (His date will almost always order the Sweet Potato Ravioli in Cheese Broth on page 110. It just works out that way.) Two small but important notes on this otherwise very easy recipe: the sausage must be precooked so it can be cut into coins; cutting it into coins is advantageous because sliced sausage has more surface area to brown, and browned sausage is better. Also, the sauce is browned butter. It's a stage of doneness, something we were taught in cooking school: beurre noisette. It should be visibly browned, with a hazelnut-like aroma. Don't skimp on the browning. Meanwhile, put the sausages into your widest sauté pan with 1/2 inch of water and turn the heat to medium. After 10 minutes, flip the sausages over and simmer them for another5 minutes (replenish the water if it threatens to boil off). After 15 minutes, the sausages should be firm and cooked through. Remove the sausages to a cutting board (discard the water) and slice them into coins just shy of 1/2 inch. (You can do this an hour or even a day ahead of time if you like. Add 1 tablespoon of the butter to the pan and turn the heat to medium-high. After a minute, add the sausage coins in an even layer and let them cook, untouched, unstirred, unfussed with, until they're deeply browned on the first side. (If there's not enough room to brown all the sausage in one pan—which there will very probably not be—split it between two pans or brown it in two batches and use an additional tablespoon of butter.) Flip and brown them on the B side. The browning is integral to the ultimate depth of flavor of the finished dish—don't stint on it. When the sausage is browned, remove it from the pan (a plate lined with paper towels is a nice place to hold it) and return the pan to the burner. Keep the heat at medium-high and add the sage, the remaining 6 tablespoons of butter, and a few twists of white pepper. Stir the butter and scrape at the browned bits on the bottom of the pan with a wooden spoon. After a minute or two, it should stop foaming and start to take on color. That's when you should drop the ricotta cavatelli into the boiling water. Continue to cook the butter until it's deeply browned and fragrant, about 4 minutes more, which should be just about how long the cavatelli takes to cook.",
+    "short_des": " Meanwhile, put the sausages into your widest sauté pan with 1/2 inch of water"
+  },
+  {
+    "id": "g4c587ne",
+    "chef_id": 2,
+    "chef_name": "Gavin Kaysen",
+    "recipe": "Salmon en croute",
+    "likes": "47110",
+    "view": "75145",
+    "recipe_img": "https://images.pexels.com/photos/1683545/pexels-photo-1683545.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "description": "I’ve had the pleasure of eating with Paul Bocuse at his restaurant several times. The first was in the kitchen, in his corner office, and they presented this iconic dish: a whole salmon cooked in puff pastry that is given scales with a ring mold. Until then, I didn’t realize how little I knew about cooking fish. I remember having dinner there with a group of people and he sent the salmon. Most of us were enamored with it, but some couldn’t believe this was a 3-star restaurant, and that the dish was too simple. They didn’t understand the complexity behind cooking something so classically perfect every night.Stir the butter and scrape at the browned bits on the bottom of the pan with a wooden spoon. After a minute or two, it should stop foaming and start to take on color. That's when you should drop the ricotta cavatelli into the boiling water. Continue to cook the butter until it's deeply browned and fragrant, about 4 minutes more, which should be just about how long the cavatelli takes to cook.",
+    "short_des": " A whole salmon cooked in puff pastry that is given scales with a ring mold."
+  },
+  {
+    "id": "g9j587ne",
+    "chef_id": 2,
+    "chef_name": "Gavin Kaysen",
+    "recipe": "Cod brandade",
+    "likes": "17110",
+    "view": "32445",
+    "recipe_img": "https://i.ibb.co/GQLcRg4/pexels-farhad-ibrahimzade-5713767.jpg",
+    "description": "I’ve had the pleasure of eating with Paul Bocuse at his restaurant several times. The first was in the kitchen, in his corner office, and they presented this iconic dish: a whole salmon cooked in puff pastry that is given scales with a ring mold. Until then, I didn’t realize how little I knew about cooking fish. I remember having dinner there with a group of people and he sent the salmon. Most of us were enamored with it, but some couldn’t believe this was a 3-star restaurant, and that the dish was too simple. They didn’t understand the complexity behind cooking something so classically perfect every night.Stir the butter and scrape at the browned bits on the bottom of the pan with a wooden spoon. After a minute or two, it should stop foaming and start to take on color. That's when you should drop the ricotta cavatelli into the boiling water. Continue to cook the butter until it's deeply browned and fragrant, about 4 minutes more, which should be just about how long the cavatelli takes to cook.",
+    "short_des": " A whole salmon cooked in puff pastry that is given scales with a ring mold."
+  },
+  {
+    "id": "g9yk87ne",
+    "chef_id": 2,
+    "chef_name": "Gavin Kaysen",
+    "recipe": "Trout almondine",
+    "likes": "17110",
+    "view": "32445",
+    "recipe_img": "https://images.pexels.com/photos/16204685/pexels-photo-16204685.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "description": "I’ve had the pleasure of eating with Paul Bocuse at his restaurant several times. The first was in the kitchen, in his corner office, and they presented this iconic dish: a whole salmon cooked in puff pastry that is given scales with a ring mold. Until then, I didn’t realize how little I knew about cooking fish. I remember having dinner there with a group of people and he sent the salmon. Most of us were enamored with it, but some couldn’t believe this was a 3-star restaurant, and that the dish was too simple. They didn’t understand the complexity behind cooking something so classically perfect every night.Stir the butter and scrape at the browned bits on the bottom of the pan with a wooden spoon. After a minute or two, it should stop foaming and start to take on color. That's when you should drop the ricotta cavatelli into the boiling water. Continue to cook the butter until it's deeply browned and fragrant, about 4 minutes more, which should be just about how long the cavatelli takes to cook.",
+    "short_des": " A whole salmon cooked in puff pastry that is given scales with a ring mold."
+  },
+  {
+    "id": "gf6k87ne",
+    "chef_id": 3,
+    "chef_name": "Dan Barber",
+    "recipe": "Tomato and Goat Cheese Burgers",
+    "likes": "17110",
+    "view": "32445",
+    "recipe_img": "https://images.pexels.com/photos/10761390/pexels-photo-10761390.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "description": "I’ve had the pleasure of eating with Paul Bocuse at his restaurant several times. The first was in the kitchen, in his corner office, and they presented this iconic dish: a whole salmon cooked in puff pastry that is given scales with a ring mold. Until then, I didn’t realize how little I knew about cooking fish. I remember having dinner there with a group of people and he sent the salmon. Most of us were enamored with it, but some couldn’t believe this was a 3-star restaurant, and that the dish was too simple. They didn’t understand the complexity behind cooking something so classically perfect every night.Stir the butter and scrape at the browned bits on the bottom of the pan with a wooden spoon. After a minute or two, it should stop foaming and start to take on color. That's when you should drop the ricotta cavatelli into the boiling water. Continue to cook the butter until it's deeply browned and fragrant, about 4 minutes more, which should be just about how long the cavatelli takes to cook.",
+    "short_des": " These little vegetarian sandwiches make a tasty starter for a summertime gathering."
+  },
+  {
+    "id": "gtpk87ne",
+    "chef_id": 3,
+    "chef_name": "Dan Barber",
+    "recipe": "Lemon Thyme Vinegar",
+    "likes": "17110",
+    "view": "32445",
+    "recipe_img": "https://images.pexels.com/photos/14773006/pexels-photo-14773006.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "description": "I’ve had the pleasure of eating with Paul Bocuse at his restaurant several times. The first was in the kitchen, in his corner office, and they presented this iconic dish: a whole salmon cooked in puff pastry that is given scales with a ring mold. Until then, I didn’t realize how little I knew about cooking fish. I remember having dinner there with a group of people and he sent the salmon. Most of us were enamored with it, but some couldn’t believe this was a 3-star restaurant, and that the dish was too simple. They didn’t understand the complexity behind cooking something so classically perfect every night.Stir the butter and scrape at the browned bits on the bottom of the pan with a wooden spoon. After a minute or two, it should stop foaming and start to take on color. That's when you should drop the ricotta cavatelli into the boiling water. Continue to cook the butter until it's deeply browned and fragrant, about 4 minutes more, which should be just about how long the cavatelli takes to cook.",
+    "short_des": " These little vegetarian sandwiches make a tasty starter for a summertime gathering."
+  },
+  {
+    "id": "296k87ne",
+    "chef_id": 3,
+    "chef_name": "Dan Barber",
+    "recipe": "Braised Carrots with Lamb",
+    "likes": "17110",
+    "view": "32445",
+    "recipe_img": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "description": "I’ve had the pleasure of eating with Paul Bocuse at his restaurant several times. The first was in the kitchen, in his corner office, and they presented this iconic dish: a whole salmon cooked in puff pastry that is given scales with a ring mold. Until then, I didn’t realize how little I knew about cooking fish. I remember having dinner there with a group of people and he sent the salmon. Most of us were enamored with it, but some couldn’t believe this was a 3-star restaurant, and that the dish was too simple. They didn’t understand the complexity behind cooking something so classically perfect every night.Stir the butter and scrape at the browned bits on the bottom of the pan with a wooden spoon. After a minute or two, it should stop foaming and start to take on color. That's when you should drop the ricotta cavatelli into the boiling water. Continue to cook the butter until it's deeply browned and fragrant, about 4 minutes more, which should be just about how long the cavatelli takes to cook.",
+    "short_des": " I remember having dinner there with a group of people and he sent the Braised."
+  },
+  {
+    "id": "296k87ya",
+    "chef_id": 4,
+    "chef_name": "Wolfgang Puck",
+    "recipe": "Cheese-Garlic Toasts",
+    "likes": "17110",
+    "view": "32445",
+    "recipe_img": "https://images.pexels.com/photos/1195941/pexels-photo-1195941.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "description": "I’ve had the pleasure of eating with Paul Bocuse at his restaurant several times. The first was in the kitchen, in his corner office, and they presented this iconic dish: a whole salmon cooked in puff pastry that is given scales with a ring mold. Until then, I didn’t realize how little I knew about cooking fish. I remember having dinner there with a group of people and he sent the salmon. Most of us were enamored with it, but some couldn’t believe this was a 3-star restaurant, and that the dish was too simple. They didn’t understand the complexity behind cooking something so classically perfect every night.Stir the butter and scrape at the browned bits on the bottom of the pan with a wooden spoon. After a minute or two, it should stop foaming and start to take on color. That's when you should drop the ricotta cavatelli into the boiling water. Continue to cook the butter until it's deeply browned and fragrant, about 4 minutes more, which should be just about how long the cavatelli takes to cook.",
+    "short_des": " These fast, garlic-rubbed toasts are topped with soft goat cheese mixed with herbs."
+  },
+  {
+    "id": "296k87ka",
+    "chef_id": 4,
+    "chef_name": "Wolfgang Puck",
+    "recipe": "Corn and Bacon Soup",
+    "likes": "17110",
+    "view": "32445",
+    "recipe_img": "https://images.pexels.com/photos/13788766/pexels-photo-13788766.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "description": "Corn and bacon soup is a delicious and comforting dish that's perfect for cool weather. The soup typically features fresh or frozen corn kernels, diced bacon, onions, garlic, and chicken broth, along with cream, milk, or cheese to add richness and creaminess. To prepare the soup, diced bacon is first cooked until crispy in a large pot or Dutch oven. The bacon is then removed from the pot and set aside, while diced onions and garlic are added to the remaining bacon fat and cooked until softened. Next, fresh or frozen corn kernels are added to the pot and cooked until tender. Chicken broth is then added to the pot, along with any desired seasonings such as thyme or bay leaves, and the soup is simmered until the flavors have melded together. To finish the soup, cream, milk, or cheese is added to the pot, along with the cooked bacon, and the soup is simmered for a few more minutes until it has reached the desired consistency. The result is a creamy and flavorful soup that's both filling and satisfying. The combination of the sweet corn, salty bacon, and creamy broth makes for a delicious and comforting dish that's perfect for a cozy night in",
+    "short_des": " Corn and bacon soup is a delicious and comforting dish that's perfect for cool weather. "
+  },
+  {
+    "id": "se6k87ka",
+    "chef_id": 4,
+    "chef_name": "Wolfgang Puck",
+    "recipe": "Savory Baked Carrot",
+    "likes": "17110",
+    "view": "32445",
+    "recipe_img": "https://images.pexels.com/photos/6210947/pexels-photo-6210947.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "description": "Corn and bacon soup is a delicious and comforting dish that's perfect for cool weather. The soup typically features fresh or frozen corn kernels, diced bacon, onions, garlic, and chicken broth, along with cream, milk, or cheese to add richness and creaminess. To prepare the soup, diced bacon is first cooked until crispy in a large pot or Dutch oven. The bacon is then removed from the pot and set aside, while diced onions and garlic are added to the remaining bacon fat and cooked until softened. Next, fresh or frozen corn kernels are added to the pot and cooked until tender. Chicken broth is then added to the pot, along with any desired seasonings such as thyme or bay leaves, and the soup is simmered until the flavors have melded together. To finish the soup, cream, milk, or cheese is added to the pot, along with the cooked bacon, and the soup is simmered for a few more minutes until it has reached the desired consistency. The result is a creamy and flavorful soup that's both filling and satisfying. The combination of the sweet corn, salty bacon, and creamy broth makes for a delicious and comforting dish that's perfect for a cozy night in",
+    "short_des": "Savory baked carrots are a delicious and healthy side dish that's easy to prepare."
+  },
+  {
+    "id": "se6ya7ka",
+    "chef_id": 4,
+    "chef_name": "Wolfgang Puck",
+    "recipe": "Broccoli Rabe Terrine",
+    "likes": "17110",
+    "view": "32445",
+    "recipe_img": "https://images.pexels.com/photos/1359326/pexels-photo-1359326.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "description": "Corn and bacon soup is a delicious and comforting dish that's perfect for cool weather. The soup typically features fresh or frozen corn kernels, diced bacon, onions, garlic, and chicken broth, along with cream, milk, or cheese to add richness and creaminess. To prepare the soup, diced bacon is first cooked until crispy in a large pot or Dutch oven. The bacon is then removed from the pot and set aside, while diced onions and garlic are added to the remaining bacon fat and cooked until softened. Next, fresh or frozen corn kernels are added to the pot and cooked until tender. Chicken broth is then added to the pot, along with any desired seasonings such as thyme or bay leaves, and the soup is simmered until the flavors have melded together. To finish the soup, cream, milk, or cheese is added to the pot, along with the cooked bacon, and the soup is simmered for a few more minutes until it has reached the desired consistency. The result is a creamy and flavorful soup that's both filling and satisfying. The combination of the sweet corn, salty bacon, and creamy broth makes for a delicious and comforting dish that's perfect for a cozy night in",
+    "short_des": "It's impressive and somewhat different,says Wolfgang Puck of this savory terrine."
+  },
+  {
+    "id": "se6y75ka",
+    "chef_id": 5,
+    "chef_name": "Dominique Crenn",
+    "recipe": "Onion Soup",
+    "likes": "17110",
+    "view": "32445",
+    "recipe_img": "https://images.pexels.com/photos/6141484/pexels-photo-6141484.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "description": "Onion soup is a classic French dish that's warm, comforting, and flavorful. It typically features caramelized onions, beef broth, and bread, with a layer of melted cheese on top.To prepare the soup, thinly sliced onions are first caramelized in a large pot or Dutch oven with butter or oil until they are deeply golden and sweet. This process can take up to an hour, as it's important to cook the onions slowly and stir them frequently to prevent burning.Once the onions are caramelized, beef broth is added to the pot along with any desired seasonings such as thyme, bay leaves, or Worcestershire sauce. The soup is then simmered for about 20-30 minutes to allow the flavors to meld together. To serve, the soup is ladled into oven-safe bowls and topped with slices of crusty bread and grated cheese. The bowls are then placed under the broiler until the cheese is melted and bubbly, creating a delicious crust on top of the soup. The result is a warm and comforting soup that's perfect for a chilly day. The sweet and savory flavors of the caramelized onions, beef broth, and melted cheese combine to create a rich and satisfying dish that's sure to please.",
+    "short_des": "Onion soup is a classic French dish that's warm, comforting, and flavorful."
+  },
+  {
+    "id": "se6y575ka",
+    "chef_id": 5,
+    "chef_name": "Dominique Crenn",
+    "recipe": "Pan con tomate",
+    "likes": "17110",
+    "view": "32445",
+    "recipe_img": "https://cdn.firstwefeast.com/assets/2014/07/crenn_pancontomate1.jpg",
+    "description": "Pan con tomate, also known as pan tumaca, is a traditional Spanish dish that's easy to prepare and bursting with flavor. It's a popular appetizer or snack that's perfect for serving at parties or enjoying as a quick and tasty bite. To make pan con tomate, you'll need a few simple ingredients including fresh bread, ripe tomatoes, garlic, olive oil, and salt. First, cut the bread into slices and toast it until it's crispy and golden brown. Next, cut the tomato in half and rub the cut side against the surface of the bread, squeezing out the juices and spreading the pulp across the surface of the bread. Then, drizzle olive oil over the top and sprinkle with a pinch of salt. For added flavor, you can also rub a clove of garlic on the bread before adding the tomato and olive oil. The result is a simple yet delicious dish that's bursting with fresh flavors. The sweetness of the ripe tomato pairs perfectly with the nutty flavor of the olive oil and the crispy texture of the toasted bread. It's a dish that's sure to please and is perfect for enjoying on a warm summer day or as an appetizer before a meal",
+    "short_des": "Pan con tomate, also known as pan tumaca, is a traditional Spanish dish"
+  },
+  {
+    "id": "se6q575ka",
+    "chef_id": 5,
+    "chef_name": "Dominique Crenn",
+    "recipe": "David Kinch’s Abalone",
+    "likes": "17110",
+    "view": "32445",
+    "recipe_img": "https://cdn.firstwefeast.com/assets/2014/07/crenn_kinch1.jpg",
+    "description": "David Kinch's abalone is a highly sought-after dish at his acclaimed restaurant, Manresa, located in Los Gatos, California. This dish features locally sourced abalone, which is a type of large sea snail that's highly prized for its delicate flavor and tender texture.To prepare the dish, the abalone is first cleaned and tenderized to remove any tough muscle fibers. It's then sliced thin and lightly seared in a hot pan with butter and garlic, allowing the meat to develop a golden brown crust while still remaining tender and juicy.The abalone is then served atop a bed of roasted vegetables such as squash, carrots, and onions, along with a garnish of freshly picked herbs and a drizzle of rich, savory sauce made from the abalone's own juices and a splash of white wine.The result is a dish that's both elegant and rustic, showcasing the natural beauty and flavor of the abalone in a simple yet sophisticated presentation. It's a testament to Kinch's commitment to locally sourced, sustainable ingredients, and his skill as a chef in transforming them into something truly exceptional.",
+    "short_des": "avid Kinch's abalone is a highly sought-after dish at his acclaimed restaurant"
   }
 ]

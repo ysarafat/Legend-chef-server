@@ -22,6 +22,13 @@ app.get("/chef/:id", (req,res)=>{
    
 
 })
+app.get("/recipe/:id", (req,res)=>{
+    const id = req.params.id;
+     const filterRecipes = recipes.find(r =>  r.id == id)
+    res.send(filterRecipes)
+   
+
+})
 
 app.listen(PORT, () => {
     console.log(`server is running in ${PORT} port`);
