@@ -1,0 +1,32 @@
+[
+  {
+    "id": 0,
+    "qus": "Tell us the differences between uncontrolled and controlled components.",
+    "ans": [
+      "Controlled components: controlled element is an element in which the value of the form element is controlled by the state of the response. Whenever the user types something, React updates the component's state and re-renders the component. To update the form element's value, you need to explicitly set its value using the value prop and handle the onChange event. Uncontrolled components refer to components that internally manage their own state. They use a ref to access the current value of the DOM element and update the state accordingly.",
+      "Controlled components: Uncontrolled component is a component where the value of the form element is managed by the DOM itself. The parent component is responsible for managing the state and passing it as props to the controlled component. This makes it easy to track the state of the component and predict how it will behave."
+    ]
+  },
+  {
+    "id": 1,
+    "qus": "How to validate React props using PropTypes",
+    "ans": [
+      "PropTypes is a built-in library used to validate the data type of props in a component. PropTypes help ensure that the data passed is of the correct type and format, and help debug errors associated with incorrect props data types. To use PropTypes, it must first be imported into the React component file. After that, define the PropTypes for component by adding a propTypes "
+    ]
+  },
+  {
+    "id": 2,
+    "qus": "Tell us the difference between nodejs and express js.",
+    "ans": [
+      "Node JS: Node.js is an open-source, cross-platform, back-end JavaScript runtime environment built on the V8 engine. It allows developers to run JavaScript code outside the browser on the server-side.",
+      "Express JS: Express.js is a web application framework based on Node.js. It provides a set of features and tools to make it easy to build web applications and APIs using Node.js."
+    ]
+  },
+  {
+    "id": 3,
+    "qus": "What is a custom hook, and why will you create a custom hook?",
+    "ans": [
+      "Custom hook is a function that allows you to reuse state logic in your React application. Custom hooks allow you to repeatedly extract logic from components in a reusable piece of code. For example useRef() is a custom hook. Custom hooks help avoid repeating the same logic over and over again in components when there is a piece of functionality that is used in multiple components or is too complex to be handled by a single component. By encapsulating complex logic, a custom hook can simplify components, make them more readable, and reduce the chance of introducing bugs."
+    ]
+  }
+]

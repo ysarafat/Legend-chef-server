@@ -2,6 +2,7 @@ const express = require('express');
 const cors = require('cors');
 const chef = require('./Data/chef.json')
 const recipes = require('./Data/recipes.json')
+const blog = require('./Data/blog.json')
 const app = express();
 const PORT = 5000;
 
@@ -28,6 +29,11 @@ app.get("/recipe/:id", (req,res)=>{
     res.send(filterRecipes)
    
 
+})
+
+// blog routing
+app.get("/blogs", (req,res)=> {
+    res.send(blog)
 })
 
 app.listen(PORT, () => {
