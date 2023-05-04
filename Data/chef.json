@@ -4,7 +4,7 @@
     "name": "Thomas Keller",
     "image": "https://i.ibb.co/hKfXRvZ/thomas-keller-2.jpg",
     "experience": "40",
-    "no_recipes": "6",
+    "no_recipes": "4",
     "likes": "4501",
     "bio": "Thomas Keller, who had been inspired by classic cookbooks as a novice chef, published The French Laundry Cookbook in 1999. TIME magazine named him “America's Best Chef” in 2001."
   },
@@ -13,7 +13,7 @@
     "name": "Grant Achatz",
     "image": "https://i.ibb.co/VMxXBCK/Grant-Achatz-Alinea.jpg",
     "experience": "25",
-    "no_recipes": "6",
+    "no_recipes": "4",
     "likes": "1756",
     "bio": "Grant Achatz is an American chef and restaurateur often recognized for his contributions to molecular gastronomy or progressive cuisine."
   },
@@ -22,7 +22,7 @@
     "name": "Gavin Kaysen",
     "image": "https://i.ibb.co/511ZcN5/Gavin-Kaysen-Cafe-Boulud001-scaled.jpg",
     "experience": "30",
-    "no_recipes": "6",
+    "no_recipes": "4",
     "likes": "8842",
     "bio": "Gavin Kaysen is executive chef and owner of Spoon and Stable, Bellecour Bakery, Demi, Socca, and Mara all in Minneapolis. He received the James Beard Award for Best Chef: Midwest in 2018"
   },
@@ -31,7 +31,7 @@
     "name": "Dan Barber",
     "image": "https://i.ibb.co/hXKF8ZT/Blue-Hill-Eater-Review-Dan-Barber-Portrait-1051-0-0.webp",
     "experience": "36",
-    "no_recipes": "6",
+    "no_recipes": "3",
     "likes": "5140",
     "bio": "Dan Barber is the chef and co-owner of Blue Hill in Manhattan and Blue Hill at Stone Barns in Pocantico Hills, New York, United States. He is the author of The Third Plate."
   },
@@ -40,7 +40,7 @@
     "name": "Wolfgang Puck",
     "image": "https://www.cheatsheet.com/wp-content/uploads/2019/12/Wolfgang-Puck.jpg",
     "experience": "40",
-    "no_recipes": "6",
+    "no_recipes": "4",
     "likes": "2450",
     "bio": "Wolfgang Johannes Puck is an Austrian-American chef and restaurateur. Bellecour Bakery, Demi, Socca, and Mara all in Minneapolis. He received the James Beard Award for Best Chef: Midwest in 2018"
   },
@@ -49,7 +49,7 @@
     "name": "Dominique Crenn",
     "image": "https://i.ibb.co/dGp4pc9/opener-dominique-crenn-credit-City-Foodsters-via-Wikimedia-Commons.jpg",
     "experience": "26",
-    "no_recipes": "6",
+    "no_recipes": "3",
     "likes": "1410",
     "bio": "Dominique Crenn is a French chef. As of 2016, she is the only female chef in the United States to attain three Michelin stars, for her restaurant Atelier Crenn, in San Francisco, California"
   }
